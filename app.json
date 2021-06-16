@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Rocket Launches",
+    "icon": "./path/to/your/app-icon.png",
+    "version": "1.0.0",
+    "slug": "rocket-launches",
+    "ios": {
+      "bundleIdentifier": "ga.patogordo.rocketlaunches",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "ga.patogordo.rocketlaunches",
+      "versionCode": 1
+    }
+  }
+}
